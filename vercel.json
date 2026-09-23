@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "rewrites": [
+    { "source": "/access/:path*", "destination": "/index.html" }
+  ]
+}
